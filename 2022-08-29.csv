@@ -1,0 +1,51 @@
+Id,Product,Popularity,Supply,Demand Shift,Predicted
+1,Isleworks Potion,0,3,0,2
+2,Isleworks Firesand,1,1,4,1
+3,Isleworks Wooden Chair,2,4,2,1
+4,Isleworks Grilled Clam,1,2,2,3
+5,Isleworks Necklace,3,2,2,2
+6,Isleworks Coral Ring,0,2,2,0
+7,Isleworks Barbut,2,3,2,3
+8,Isleworks Macuahuitl,3,4,2,1
+9,Isleworks Sauerkraut,2,2,0,1
+10,Isleworks Baked Pumpkin,1,2,2,1
+11,Isleworks Tunic,0,2,2,0
+12,Isleworks Culinary Knife,2,0,4,3
+13,Isleworks Brush,1,2,2,3
+14,Isleworks Boiled Egg,3,0,4,2
+15,Isleworks Hora,3,1,3,0
+16,Isleworks Earrings,1,2,2,2
+17,Isleworks Butter,2,2,2,2
+18,Isleworks Brick Counter,3,2,2,3
+19,Bronze Sheep,3,3,2,2
+20,Isleworks Growth Formula,1,2,2,3
+21,Isleworks Garnet Rapier,1,2,0,3
+22,Isleworks Spruce Round Shield,2,2,2,1
+23,Isleworks Shark Oil,3,2,0,3
+24,Isleworks Silver Ear Cuffs,1,2,0,3
+25,Isleworks Sweet Popoto,1,1,3,2
+26,Isleworks Parsnip Salad,1,2,2,2
+27,Isleworks Caramels,2,2,2,1
+28,Isleworks Ribbon,0,2,2,0
+29,Isleworks Rope,3,2,0,3
+30,Isleworks Cavalier's Hat,2,2,0,3
+31,Isleworks Horn,3,2,2,1
+32,Isleworks Salt Cod,2,0,4,1
+33,Isleworks Squid Ink,3,2,2,1
+34,Isleworks Essential Draught,0,2,2,2
+35,Isleberry Jam,2,1,3,1
+36,Isleworks Tomato Relish,1,0,4,0
+37,Isleworks Onion Soup,0,2,2,2
+38,Islefish Pie,3,2,2,0
+39,Isleworks Corn Flakes,2,2,2,1
+40,Isleworks Pickled Radish,1,1,3,3
+41,Isleworks Iron Axe,3,2,2,1
+42,Isleworks Quartz Ring,2,2,2,2
+43,Isleworks Porcelain Vase,0,1,3,2
+44,Isleworks Vegetable Juice,2,2,2,2
+45,Isleworks Pumpkin Pudding,1,2,2,0
+46,Isleworks Sheepfluff Rug,1,2,2,1
+47,Isleworks Garden Scythe,,,,
+48,Isleworks Bed,,,,
+49,Isleworks Scale Fingers,,,,
+50,Isleworks Crook,,,,
