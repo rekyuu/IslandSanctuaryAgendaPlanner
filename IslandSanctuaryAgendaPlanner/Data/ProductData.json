@@ -1,0 +1,1208 @@
+[
+  {
+    "Id": 1,
+    "Name": "Isleworks Potion",
+    "Rank": 1,
+    "Time": 4,
+    "Quantity": 1,
+    "Value": 28,
+    "Categories": [
+      "Concoctions"
+    ],
+    "Materials": [
+      {
+        "Material": "Island Palm Leaf",
+        "Required": 2
+      },
+      {
+        "Material": "Islewort",
+        "Required": 2
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "Isleworks Firesand",
+    "Rank": 1,
+    "Time": 4,
+    "Quantity": 1,
+    "Value": 28,
+    "Categories": [
+      "Concoctions",
+      "Unburied Treasures"
+    ],
+    "Materials": [
+      {
+        "Material": "Island Sand",
+        "Required": 2
+      },
+      {
+        "Material": "Island Limestone",
+        "Required": 1
+      },
+      {
+        "Material": "Islewort",
+        "Required": 1
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "Name": "Isleworks Grilled Clam",
+    "Rank": 1,
+    "Time": 4,
+    "Quantity": 1,
+    "Value": 28,
+    "Categories": [
+      "Foodstuffs",
+      "Marine Merchandise"
+    ],
+    "Materials": [
+      {
+        "Material": "Island Clam",
+        "Required": 2
+      },
+      {
+        "Material": "Island Laver",
+        "Required": 2
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "Name": "Isleworks Necklace",
+    "Rank": 1,
+    "Time": 4,
+    "Quantity": 1,
+    "Value": 28,
+    "Categories": [
+      "Accessories",
+      "Woodworks"
+    ],
+    "Materials": [
+      {
+        "Material": "Island Branch",
+        "Required": 3
+      },
+      {
+        "Material": "Island Vine",
+        "Required": 1
+      }
+    ]
+  },
+  {
+    "Id": 9,
+    "Name": "Isleworks Sauerkraut",
+    "Rank": 1,
+    "Time": 4,
+    "Quantity": 1,
+    "Value": 40,
+    "Categories": [
+      "Preserved Food"
+    ],
+    "Materials": [
+      {
+        "Material": "Island Cabbage",
+        "Required": 1
+      },
+      {
+        "Material": "Island Rock Salt",
+        "Required": 3
+      }
+    ]
+  },
+  {
+    "Id": 10,
+    "Name": "Isleworks Baked Pumpkin",
+    "Rank": 1,
+    "Time": 4,
+    "Quantity": 1,
+    "Value": 40,
+    "Categories": [
+      "Foodstuffs"
+    ],
+    "Materials": [
+      {
+        "Material": "Island Pumpkin",
+        "Required": 1
+      },
+      {
+        "Material": "Island Sap",
+        "Required": 3
+      }
+    ]
+  },
+  {
+    "Id": 12,
+    "Name": "Isleworks Culinary Knife",
+    "Rank": 1,
+    "Time": 4,
+    "Quantity": 1,
+    "Value": 44,
+    "Categories": [
+      "Sundries",
+      "Creature Creations"
+    ],
+    "Materials": [
+      {
+        "Material": "Sanctuary Claw",
+        "Required": 1
+      },
+      {
+        "Material": "Island Palm Log",
+        "Required": 3
+      }
+    ]
+  },
+  {
+    "Id": 13,
+    "Name": "Isleworks Brush",
+    "Rank": 1,
+    "Time": 4,
+    "Quantity": 1,
+    "Value": 44,
+    "Categories": [
+      "Sundries",
+      "Woodworks"
+    ],
+    "Materials": [
+      {
+        "Material": "Sanctuary Fur",
+        "Required": 1
+      },
+      {
+        "Material": "Island Palm Log",
+        "Required": 3
+      }
+    ]
+  },
+  {
+    "Id": 14,
+    "Name": "Isleworks Boiled Egg",
+    "Rank": 1,
+    "Time": 4,
+    "Quantity": 1,
+    "Value": 44,
+    "Categories": [
+      "Foodstuffs",
+      "Creature Creations"
+    ],
+    "Materials": [
+      {
+        "Material": "Sanctuary Egg",
+        "Required": 1
+      },
+      {
+        "Material": "Island Laver",
+        "Required": 3
+      }
+    ]
+  },
+  {
+    "Id": 16,
+    "Name": "Isleworks Earrings",
+    "Rank": 1,
+    "Time": 4,
+    "Quantity": 1,
+    "Value": 44,
+    "Categories": [
+      "Accessories",
+      "Creature Creations"
+    ],
+    "Materials": [
+      {
+        "Material": "Sanctuary Fang",
+        "Required": 1
+      },
+      {
+        "Material": "Island Vine",
+        "Required": 3
+      }
+    ]
+  },
+  {
+    "Id": 17,
+    "Name": "Isleworks Butter",
+    "Rank": 1,
+    "Time": 4,
+    "Quantity": 1,
+    "Value": 44,
+    "Categories": [
+      "Ingredients",
+      "Creature Creations"
+    ],
+    "Materials": [
+      {
+        "Material": "Sanctuary Milk",
+        "Required": 1
+      },
+      {
+        "Material": "Island Rock Salt",
+        "Required": 3
+      }
+    ]
+  },
+  {
+    "Id": 26,
+    "Name": "Isleworks Parsnip Salad",
+    "Rank": 5,
+    "Time": 4,
+    "Quantity": 1,
+    "Value": 48,
+    "Categories": [
+      "Foodstuffs"
+    ],
+    "Materials": [
+      {
+        "Material": "Island Parsnip",
+        "Required": 2
+      },
+      {
+        "Material": "Islewort",
+        "Required": 1
+      },
+      {
+        "Material": "Island Sap",
+        "Required": 1
+      }
+    ]
+  },
+  {
+    "Id": 29,
+    "Name": "Isleworks Rope",
+    "Rank": 6,
+    "Time": 4,
+    "Quantity": 1,
+    "Value": 36,
+    "Categories": [
+      "Sundries",
+      "Textiles"
+    ],
+    "Materials": [
+      {
+        "Material": "Island Hemp",
+        "Required": 2
+      },
+      {
+        "Material": "Islewort",
+        "Required": 1
+      },
+      {
+        "Material": "Island Vine",
+        "Required": 1
+      }
+    ]
+  },
+  {
+    "Id": 33,
+    "Name": "Isleworks Squid Ink",
+    "Rank": 7,
+    "Time": 4,
+    "Quantity": 1,
+    "Value": 36,
+    "Categories": [
+      "Ingredients",
+      "Marine Merchandise"
+    ],
+    "Materials": [
+      {
+        "Material": "Island Squid",
+        "Required": 2
+      },
+      {
+        "Material": "Island Rock Salt",
+        "Required": 2
+      }
+    ]
+  },
+  {
+    "Id": 36,
+    "Name": "Isleworks Tomato Relish",
+    "Rank": 7,
+    "Time": 4,
+    "Quantity": 1,
+    "Value": 52,
+    "Categories": [
+      "Ingredients"
+    ],
+    "Materials": [
+      {
+        "Material": "Island Tomato",
+        "Required": 2
+      },
+      {
+        "Material": "Island Sugarcane",
+        "Required": 1
+      },
+      {
+        "Material": "Islewort",
+        "Required": 1
+      }
+    ]
+  },
+  {
+    "Id": 39,
+    "Name": "Isleworks Corn Flakes",
+    "Rank": 7,
+    "Time": 4,
+    "Quantity": 1,
+    "Value": 52,
+    "Categories": [
+      "Preserved Food"
+    ],
+    "Materials": [
+      {
+        "Material": "Island Corn",
+        "Required": 2
+      },
+      {
+        "Material": "Island Sugarcane",
+        "Required": 2
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Name": "Isleworks Wooden Chair",
+    "Rank": 1,
+    "Time": 6,
+    "Quantity": 1,
+    "Value": 42,
+    "Categories": [
+      "Furnishings",
+      "Woodworks"
+    ],
+    "Materials": [
+      {
+        "Material": "Island Log",
+        "Required": 4
+      },
+      {
+        "Material": "Island Vine",
+        "Required": 2
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "Name": "Isleworks Coral Ring",
+    "Rank": 1,
+    "Time": 6,
+    "Quantity": 1,
+    "Value": 42,
+    "Categories": [
+      "Accessories",
+      "Marine Merchandise"
+    ],
+    "Materials": [
+      {
+        "Material": "Island Coral",
+        "Required": 3
+      },
+      {
+        "Material": "Island Vine",
+        "Required": 3
+      }
+    ]
+  },
+  {
+    "Id": 7,
+    "Name": "Isleworks Barbut",
+    "Rank": 1,
+    "Time": 6,
+    "Quantity": 1,
+    "Value": 42,
+    "Categories": [
+      "Attire",
+      "Metalworks"
+    ],
+    "Materials": [
+      {
+        "Material": "Island Copper Ore",
+        "Required": 3
+      },
+      {
+        "Material": "Island Sand",
+        "Required": 3
+      }
+    ]
+  },
+  {
+    "Id": 8,
+    "Name": "Isleworks Macuahuitl",
+    "Rank": 1,
+    "Time": 6,
+    "Quantity": 1,
+    "Value": 42,
+    "Categories": [
+      "Arms",
+      "Woodworks"
+    ],
+    "Materials": [
+      {
+        "Material": "Island Palm Log",
+        "Required": 3
+      },
+      {
+        "Material": "Island Stone",
+        "Required": 3
+      }
+    ]
+  },
+  {
+    "Id": 11,
+    "Name": "Isleworks Tunic",
+    "Rank": 1,
+    "Time": 6,
+    "Quantity": 1,
+    "Value": 72,
+    "Categories": [
+      "Attire",
+      "Textiles"
+    ],
+    "Materials": [
+      {
+        "Material": "Sanctuary Fleece",
+        "Required": 2
+      },
+      {
+        "Material": "Island Vine",
+        "Required": 4
+      }
+    ]
+  },
+  {
+    "Id": 15,
+    "Name": "Isleworks Hora",
+    "Rank": 1,
+    "Time": 6,
+    "Quantity": 1,
+    "Value": 72,
+    "Categories": [
+      "Arms",
+      "Creature Creations"
+    ],
+    "Materials": [
+      {
+        "Material": "Sanctuary Carapace",
+        "Required": 2
+      },
+      {
+        "Material": "Island Stone",
+        "Required": 4
+      }
+    ]
+  },
+  {
+    "Id": 18,
+    "Name": "Isleworks Brick Counter",
+    "Rank": 5,
+    "Time": 6,
+    "Quantity": 1,
+    "Value": 48,
+    "Categories": [
+      "Furnishings",
+      "Unburied Treasures"
+    ],
+    "Materials": [
+      {
+        "Material": "Island Clay",
+        "Required": 2
+      },
+      {
+        "Material": "Island Limestone",
+        "Required": 2
+      },
+      {
+        "Material": "Island Palm Log",
+        "Required": 2
+      }
+    ]
+  },
+  {
+    "Id": 25,
+    "Name": "Isleworks Sweet Popoto",
+    "Rank": 5,
+    "Time": 6,
+    "Quantity": 1,
+    "Value": 72,
+    "Categories": [
+      "Confections"
+    ],
+    "Materials": [
+      {
+        "Material": "Island Popoto",
+        "Required": 2
+      },
+      {
+        "Material": "Sanctuary Milk",
+        "Required": 1
+      },
+      {
+        "Material": "Island Sap",
+        "Required": 3
+      }
+    ]
+  },
+  {
+    "Id": 27,
+    "Name": "Isleworks Caramels",
+    "Rank": 6,
+    "Time": 6,
+    "Quantity": 1,
+    "Value": 81,
+    "Categories": [
+      "Confections"
+    ],
+    "Materials": [
+      {
+        "Material": "Island Sugarcane",
+        "Required": 4
+      },
+      {
+        "Material": "Sanctuary Milk",
+        "Required": 2
+      }
+    ]
+  },
+  {
+    "Id": 28,
+    "Name": "Isleworks Ribbon",
+    "Rank": 6,
+    "Time": 6,
+    "Quantity": 1,
+    "Value": 54,
+    "Categories": [
+      "Accessories",
+      "Textiles"
+    ],
+    "Materials": [
+      {
+        "Material": "Island Cotton Boll",
+        "Required": 2
+      },
+      {
+        "Material": "Island Copper Ore",
+        "Required": 2
+      },
+      {
+        "Material": "Island Vine",
+        "Required": 2
+      }
+    ]
+  },
+  {
+    "Id": 30,
+    "Name": "Isleworks Cavalier's Hat",
+    "Rank": 6,
+    "Time": 6,
+    "Quantity": 1,
+    "Value": 81,
+    "Categories": [
+      "Attire",
+      "Textiles"
+    ],
+    "Materials": [
+      {
+        "Material": "Sanctuary Feather",
+        "Required": 2
+      },
+      {
+        "Material": "Island Cotton Boll",
+        "Required": 2
+      },
+      {
+        "Material": "Island Hemp",
+        "Required": 2
+      }
+    ]
+  },
+  {
+    "Id": 31,
+    "Name": "Isleworks Horn",
+    "Rank": 6,
+    "Time": 6,
+    "Quantity": 1,
+    "Value": 81,
+    "Categories": [
+      "Sundries",
+      "Creature Creations"
+    ],
+    "Materials": [
+      {
+        "Material": "Sanctuary Horn",
+        "Required": 2
+      },
+      {
+        "Material": "Island Clay",
+        "Required": 2
+      },
+      {
+        "Material": "Island Hemp",
+        "Required": 2
+      }
+    ]
+  },
+  {
+    "Id": 32,
+    "Name": "Isleworks Salt Cod",
+    "Rank": 7,
+    "Time": 6,
+    "Quantity": 1,
+    "Value": 54,
+    "Categories": [
+      "Preserved Food",
+      "Marine Merchandise"
+    ],
+    "Materials": [
+      {
+        "Material": "Islefish",
+        "Required": 4
+      },
+      {
+        "Material": "Island Rock Salt",
+        "Required": 2
+      }
+    ]
+  },
+  {
+    "Id": 34,
+    "Name": "Isleworks Essential Draught",
+    "Rank": 7,
+    "Time": 6,
+    "Quantity": 1,
+    "Value": 54,
+    "Categories": [
+      "Concoctions",
+      "Marine Merchandise"
+    ],
+    "Materials": [
+      {
+        "Material": "Island Jellyfish",
+        "Required": 2
+      },
+      {
+        "Material": "Island Palm Leaf",
+        "Required": 2
+      },
+      {
+        "Material": "Island Laver",
+        "Required": 2
+      }
+    ]
+  },
+  {
+    "Id": 35,
+    "Name": "Isleberry Jam",
+    "Rank": 7,
+    "Time": 6,
+    "Quantity": 1,
+    "Value": 78,
+    "Categories": [
+      "Ingredients"
+    ],
+    "Materials": [
+      {
+        "Material": "Isleberry",
+        "Required": 3
+      },
+      {
+        "Material": "Island Sugarcane",
+        "Required": 2
+      },
+      {
+        "Material": "Island Sap",
+        "Required": 1
+      }
+    ]
+  },
+  {
+    "Id": 37,
+    "Name": "Isleworks Onion Soup",
+    "Rank": 7,
+    "Time": 6,
+    "Quantity": 1,
+    "Value": 78,
+    "Categories": [
+      "Foodstuffs"
+    ],
+    "Materials": [
+      {
+        "Material": "Island Onion",
+        "Required": 3
+      },
+      {
+        "Material": "Island Rock Salt",
+        "Required": 2
+      },
+      {
+        "Material": "Islewort",
+        "Required": 1
+      }
+    ]
+  },
+  {
+    "Id": 38,
+    "Name": "Islefish Pie",
+    "Rank": 7,
+    "Time": 6,
+    "Quantity": 1,
+    "Value": 78,
+    "Categories": [
+      "Confections",
+      "Marine Merchandise"
+    ],
+    "Materials": [
+      {
+        "Material": "Island Wheat",
+        "Required": 3
+      },
+      {
+        "Material": "Islefish",
+        "Required": 2
+      },
+      {
+        "Material": "Island Sugarcane",
+        "Required": 1
+      }
+    ]
+  },
+  {
+    "Id": 44,
+    "Name": "Isleworks Vegetable Juice",
+    "Rank": 8,
+    "Time": 6,
+    "Quantity": 1,
+    "Value": 78,
+    "Categories": [
+      "Concoctions"
+    ],
+    "Materials": [
+      {
+        "Material": "Island Cabbage",
+        "Required": 3
+      },
+      {
+        "Material": "Islewort",
+        "Required": 2
+      },
+      {
+        "Material": "Island Laver",
+        "Required": 1
+      }
+    ]
+  },
+  {
+    "Id": 45,
+    "Name": "Isleworks Pumpkin Pudding",
+    "Rank": 8,
+    "Time": 6,
+    "Quantity": 1,
+    "Value": 78,
+    "Categories": [
+      "Confections"
+    ],
+    "Materials": [
+      {
+        "Material": "Island Pumpkin",
+        "Required": 3
+      },
+      {
+        "Material": "Sanctuary Egg",
+        "Required": 1
+      },
+      {
+        "Material": "Sanctuary Milk",
+        "Required": 1
+      }
+    ]
+  },
+  {
+    "Id": 46,
+    "Name": "Isleworks Sheepfluff Rug",
+    "Rank": 8,
+    "Time": 6,
+    "Quantity": 1,
+    "Value": 90,
+    "Categories": [
+      "Furnishings",
+      "Creature Creations"
+    ],
+    "Materials": [
+      {
+        "Material": "Sanctuary Fleece",
+        "Required": 3
+      },
+      {
+        "Material": "Island Cotton Boll",
+        "Required": 2
+      },
+      {
+        "Material": "Island Hemp",
+        "Required": 1
+      }
+    ]
+  },
+  {
+    "Id": 19,
+    "Name": "Bronze Sheep",
+    "Rank": 5,
+    "Time": 8,
+    "Quantity": 1,
+    "Value": 64,
+    "Categories": [
+      "Furnishings",
+      "Metalworks"
+    ],
+    "Materials": [
+      {
+        "Material": "Island Tinsand",
+        "Required": 3
+      },
+      {
+        "Material": "Island Copper Ore",
+        "Required": 3
+      },
+      {
+        "Material": "Island Log",
+        "Required": 2
+      }
+    ]
+  },
+  {
+    "Id": 20,
+    "Name": "Isleworks Growth Formula",
+    "Rank": 5,
+    "Time": 8,
+    "Quantity": 1,
+    "Value": 136,
+    "Categories": [
+      "Concoctions"
+    ],
+    "Materials": [
+      {
+        "Material": "Island Alyssum",
+        "Required": 2
+      },
+      {
+        "Material": "Islewort",
+        "Required": 3
+      },
+      {
+        "Material": "Island Branch",
+        "Required": 3
+      }
+    ]
+  },
+  {
+    "Id": 21,
+    "Name": "Isleworks Garnet Rapier",
+    "Rank": 5,
+    "Time": 8,
+    "Quantity": 1,
+    "Value": 136,
+    "Categories": [
+      "Arms",
+      "Unburied Treasures"
+    ],
+    "Materials": [
+      {
+        "Material": "Raw Island Garnet",
+        "Required": 2
+      },
+      {
+        "Material": "Island Copper Ore",
+        "Required": 3
+      },
+      {
+        "Material": "Island Tinsand",
+        "Required": 3
+      }
+    ]
+  },
+  {
+    "Id": 22,
+    "Name": "Isleworks Spruce Round Shield",
+    "Rank": 5,
+    "Time": 8,
+    "Quantity": 1,
+    "Value": 136,
+    "Categories": [
+      "Attire",
+      "Woodworks"
+    ],
+    "Materials": [
+      {
+        "Material": "Island Spruce Log",
+        "Required": 2
+      },
+      {
+        "Material": "Island Copper Ore",
+        "Required": 3
+      },
+      {
+        "Material": "Island Stone",
+        "Required": 3
+      }
+    ]
+  },
+  {
+    "Id": 23,
+    "Name": "Isleworks Shark Oil",
+    "Rank": 5,
+    "Time": 8,
+    "Quantity": 1,
+    "Value": 136,
+    "Categories": [
+      "Sundries",
+      "Marine Merchandise"
+    ],
+    "Materials": [
+      {
+        "Material": "Island Hammerhead",
+        "Required": 2
+      },
+      {
+        "Material": "Island Laver",
+        "Required": 3
+      },
+      {
+        "Material": "Island Sap",
+        "Required": 3
+      }
+    ]
+  },
+  {
+    "Id": 24,
+    "Name": "Isleworks Silver Ear Cuffs",
+    "Rank": 5,
+    "Time": 8,
+    "Quantity": 1,
+    "Value": 136,
+    "Categories": [
+      "Accessories",
+      "Metalworks"
+    ],
+    "Materials": [
+      {
+        "Material": "Island Silver Ore",
+        "Required": 2
+      },
+      {
+        "Material": "Island Tinsand",
+        "Required": 3
+      },
+      {
+        "Material": "Island Coral",
+        "Required": 3
+      }
+    ]
+  },
+  {
+    "Id": 40,
+    "Name": "Isleworks Pickled Radish",
+    "Rank": 7,
+    "Time": 8,
+    "Quantity": 1,
+    "Value": 104,
+    "Categories": [
+      "Preserved Food"
+    ],
+    "Materials": [
+      {
+        "Material": "Island Radish",
+        "Required": 4
+      },
+      {
+        "Material": "Island Apple",
+        "Required": 2
+      },
+      {
+        "Material": "Island Sugarcane",
+        "Required": 2
+      }
+    ]
+  },
+  {
+    "Id": 41,
+    "Name": "Isleworks Iron Axe",
+    "Rank": 8,
+    "Time": 8,
+    "Quantity": 1,
+    "Value": 72,
+    "Categories": [
+      "Arms",
+      "Metalworks"
+    ],
+    "Materials": [
+      {
+        "Material": "Island Iron Ore",
+        "Required": 3
+      },
+      {
+        "Material": "Island Log",
+        "Required": 3
+      },
+      {
+        "Material": "Island Sand",
+        "Required": 2
+      }
+    ]
+  },
+  {
+    "Id": 42,
+    "Name": "Isleworks Quartz Ring",
+    "Rank": 8,
+    "Time": 8,
+    "Quantity": 1,
+    "Value": 72,
+    "Categories": [
+      "Accessories",
+      "Unburied Treasures"
+    ],
+    "Materials": [
+      {
+        "Material": "Island Quartz",
+        "Required": 3
+      },
+      {
+        "Material": "Island Iron Ore",
+        "Required": 3
+      },
+      {
+        "Material": "Island Stone",
+        "Required": 2
+      }
+    ]
+  },
+  {
+    "Id": 43,
+    "Name": "Isleworks Procelain Vase",
+    "Rank": 8,
+    "Time": 8,
+    "Quantity": 1,
+    "Value": 72,
+    "Categories": [
+      "Sundries",
+      "Unburied Treasures"
+    ],
+    "Materials": [
+      {
+        "Material": "Island Leucogranite",
+        "Required": 3
+      },
+      {
+        "Material": "Island Quartz",
+        "Required": 3
+      },
+      {
+        "Material": "Island Clay",
+        "Required": 2
+      }
+    ]
+  },
+  {
+    "Id": 47,
+    "Name": "Isleworks Garden Scythe",
+    "Rank": 9,
+    "Time": 6,
+    "Quantity": 1,
+    "Value": 90,
+    "Categories": [
+      "Sundries",
+      "Metalworks"
+    ],
+    "Materials": [
+      {
+        "Material": "Sanctuary Claw",
+        "Required": 3
+      },
+      {
+        "Material": "Island Iron Ore",
+        "Required": 2
+      },
+      {
+        "Material": "Island Palm Log",
+        "Required": 1
+      }
+    ]
+  },
+  {
+    "Id": 48,
+    "Name": "Isleworks Bed",
+    "Rank": 9,
+    "Time": 8,
+    "Quantity": 1,
+    "Value": 120,
+    "Categories": [
+      "Furnishings",
+      "Textiles"
+    ],
+    "Materials": [
+      {
+        "Material": "Sanctuary Fur",
+        "Required": 4
+      },
+      {
+        "Material": "Island Cotton Boll",
+        "Required": 2
+      },
+      {
+        "Material": "Island Log",
+        "Required": 2
+      }
+    ]
+  },
+  {
+    "Id": 49,
+    "Name": "Isleworks Scale Fingers",
+    "Rank": 9,
+    "Time": 8,
+    "Quantity": 1,
+    "Value": 120,
+    "Categories": [
+      "Attire",
+      "Creature Creations"
+    ],
+    "Materials": [
+      {
+        "Material": "Sanctuary Carapace",
+        "Required": 4
+      },
+      {
+        "Material": "Island Iron Ore",
+        "Required": 2
+      },
+      {
+        "Material": "Island Cotton Boll",
+        "Required": 2
+      }
+    ]
+  },
+  {
+    "Id": 50,
+    "Name": "Isleworks Crook",
+    "Rank": 9,
+    "Time": 8,
+    "Quantity": 1,
+    "Value": 120,
+    "Categories": [
+      "Arms",
+      "Woodworks"
+    ],
+    "Materials": [
+      {
+        "Material": "Sanctuary Fang",
+        "Required": 4
+      },
+      {
+        "Material": "Island Quartz",
+        "Required": 2
+      },
+      {
+        "Material": "Island Log",
+        "Required": 2
+      }
+    ]
+  }
+]

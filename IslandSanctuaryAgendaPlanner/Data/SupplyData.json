@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Nonexistent",
+    "Modifier": 1.6
+  },
+  {
+    "Name": "Insufficient",
+    "Modifier": 1.3
+  },
+  {
+    "Name": "Sufficient",
+    "Modifier": 1.0
+  },
+  {
+    "Name": "Surplus",
+    "Modifier": 0.8
+  },
+  {
+    "Name": "Overflowing",
+    "Modifier": 0.6
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Low",
+    "Modifier": 0.8
+  },
+  {
+    "Name": "Average",
+    "Modifier": 1.0
+  },
+  {
+    "Name": "High",
+    "Modifier": 1.2
+  },
+  {
+    "Name": "Very High",
+    "Modifier": 1.4
+  }
+]
