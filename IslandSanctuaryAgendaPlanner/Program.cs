@@ -49,6 +49,7 @@ internal class Program
                 product.Supply = (Supply)long.Parse(csvData[3]);
                 product.DemandShift = (DemandShift)long.Parse(csvData[4]);
                 product.PredictedDemand = (Demand)long.Parse(csvData[5]);
+                product.CraftedToday = long.Parse(csvData[6]);
             }
             catch
             {
@@ -100,13 +101,21 @@ internal class Program
         ProductData rapier = Products
             .Single(x => x.Name == "Isleworks Garnet Rapier");
 
+        ProductData fingers = Products
+            .Single(x => x.Name == "Isleworks Scale Fingers");
+
+        ProductData rope = Products
+            .Single(x => x.Name == "Isleworks Rope");
+
         // Order expected value by descending order and take the top 10.
         Agenda[] topAgendas = agendas
+            .Where(x => x.ProductSchedule.Contains(rope))
             //.Where(x => !x.ProductSchedule.Contains(sharkOil))
-            .Where(x => !x.ProductSchedule.Contains(earrings))
-            .Where(x => !x.ProductSchedule.Contains(formula))
-            .Where(x => !x.ProductSchedule.Contains(earCuffs))
-            .Where(x => !x.ProductSchedule.Contains(rapier))
+            // .Where(x => !x.ProductSchedule.Contains(earrings))
+            // .Where(x => !x.ProductSchedule.Contains(formula))
+            // .Where(x => !x.ProductSchedule.Contains(earCuffs))
+            // .Where(x => !x.ProductSchedule.Contains(rapier))
+            // .Where(x => !x.ProductSchedule.Contains(fingers))
             .OrderByDescending(x => x.ExpectedValue)
             .Take(10)
             .Reverse()

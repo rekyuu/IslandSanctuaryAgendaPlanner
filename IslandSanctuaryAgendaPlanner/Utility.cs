@@ -33,4 +33,30 @@ public static class Utility
     public static float GetSupplyModifier(Supply supply) => SupplyModifier[(int)supply];
 
     public static float GetWorkshopModifier(int workshopRank) => WorkshopModifier[workshopRank];
+
+    public static long GetAverageSupplyAmount(Supply supply)
+    {
+        return supply switch
+        {
+            Supply.Nonexistent => -6,
+            Supply.Insufficient => -3,
+            Supply.Sufficient => 5,
+            Supply.Surplus => 13,
+            Supply.Overflowing => 18,
+            _ => throw new ArgumentOutOfRangeException(nameof(supply), supply, null)
+        };
+    }
+
+    public static long GetSupplyShiftAmount(DemandShift shift)
+    {
+        return shift switch
+        {
+            DemandShift.Plummeting => 6,
+            DemandShift.Decreasing => 3,
+            DemandShift.None => 0,
+            DemandShift.Increasing => -3,
+            DemandShift.Skyrocketing => -6,
+            _ => throw new ArgumentOutOfRangeException(nameof(shift), shift, null)
+        };
+    }
 }

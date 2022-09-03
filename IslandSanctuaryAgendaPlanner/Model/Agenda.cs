@@ -21,7 +21,7 @@ public class Agenda
         
         ProductSchedule.Add(productToAdd);
         UsedTime += productToAdd.Time;
-        ExpectedValue += productToAdd.GetExpectedValue(workshopModifier, groove, combo);
+        ExpectedValue += productToAdd.GetExpectedValueFromCurrentDemand(workshopModifier, groove, combo);
     }
 
     public Agenda Clone()
